@@ -1,6 +1,6 @@
 package b
 
-import "github.com/enmand/synk-fixtures-go-mvs/d"
+import "github.com/enmand/go-mvs-example/d"
 
 func GetB() string {
 	return "b:1.0.0"

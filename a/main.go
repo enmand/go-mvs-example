@@ -1,9 +1,9 @@
 package a
 
 import (
-	"github.com/enmand/synk-fixtures-go-mvs/b"
-	"github.com/enmand/synk-fixtures-go-mvs/c"
-	"github.com/enmand/synk-fixtures-go-mvs/e"
+	"github.com/enmand/go-mvs-example/b"
+	"github.com/enmand/go-mvs-example/c"
+	"github.com/enmand/go-mvs-example/e"
 )
 
 func GetA() string {
